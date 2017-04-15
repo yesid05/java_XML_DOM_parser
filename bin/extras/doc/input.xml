@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<clase>
+   <estudiante rollno="393">
+      <nombre>yesid</nombre>
+      <apellido>caicedo</apellido>
+      <codigo>85</codigo>
+   </estudiante>
+   <estudiante rollno="493">
+      <nombre>Andrea</nombre>
+      <apellido>Salamanca</apellido>
+      <codigo>95</codigo>
+   </estudiante>
+   <estudiante rollno="593">
+      <nombre>Milena</nombre>
+      <apellido>Perez</apellido>
+      <codigo>90</codigo>
+   </estudiante>
+</clase>
