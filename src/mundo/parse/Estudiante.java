@@ -1,4 +1,4 @@
-package mundo;
+package mundo.parse;
 
 public class Estudiante {
 

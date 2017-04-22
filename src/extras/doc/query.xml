@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<carro>
+   <supercarros empresa="Ferrari">
+      <nombrecarro type="formula one">Ferarri 101</nombrecarro>
+      <nombrecarro type="sports car">Ferarri 201</nombrecarro>
+      <nombrecarro type="sports car">Ferarri 301</nombrecarro>
+   </supercarros>
+   <supercarros empresa="Lamborgini">
+      <nombrecarro>Lamborgini 001</nombrecarro>
+      <nombrecarro>Lamborgini 002</nombrecarro>
+      <nombrecarro>Lamborgini 003</nombrecarro>
+   </supercarros>
+   <lujocarros empresa="Benteley">
+      <nombrecarro>Benteley 1</nombrecarro>
+      <nombrecarro>Benteley 2</nombrecarro>
+      <nombrecarro>Benteley 3</nombrecarro>
+   </lujocarros>
+</carro>

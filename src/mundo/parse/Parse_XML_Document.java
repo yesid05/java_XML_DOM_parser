@@ -1,4 +1,4 @@
-package mundo;
+package mundo.parse;
 
 import java.io.File;
 import java.io.IOException;
@@ -26,7 +26,7 @@ public class Parse_XML_Document {
     private static final String RUTA_ARCHIVO = "/extras/doc/";
 
     // Nombre del archivo xml
-    private static final String NOMBRE_ARCHIVO = "input.xml";
+    private static final String NOMBRE_ARCHIVO = "parse.xml";
 
     // Atributo para leer el documento
     private File inputFile;
@@ -58,7 +58,7 @@ public class Parse_XML_Document {
     }
 
     /**
-     * Metodo para leer el archivo xml
+     * Metodo para cargar el archivo xml
      * 
      * @throws URISyntaxException
      *             Si el archivo no existe
