@@ -36,8 +36,10 @@ public class Main {
 	    }
 	     */
 	    q.cargarArchivo();
+	    q.cargarDocumentoXML();
+	    q.leerDocumentoXML();
 	    
-	} catch (URISyntaxException/* | ParserConfigurationException | SAXException | IOException */e) {
+	} catch (URISyntaxException | ParserConfigurationException | SAXException | IOException e) {
 	    // TODO Auto-generated catch block
 	    e.printStackTrace();
 	}
